@@ -146,6 +146,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ds-about-section{ padding-bottom: 60px; }
 	.ds-about-section p,.ds-work-content-sec p,.ds-work-content-sec li{ font-size: 15px; line-height: 30px;margin-bottom: 30px; }
 	.ds-skills-list li{ margin-right: 10px; margin-bottom: 10px; font-size: 14px; }
+	.ds-design-list li{ margin-right: 10px; margin-bottom: 10px; font-size: 14px; }
 	.ds-skills-section .col-12,.ds-experience-list .col-12{ margin-bottom: 40px; }
 	.ds-skills-section,.ds-work-section, .ds-experience-section{ padding-bottom: 0; }
 	.ds-experience-list section{ padding-right: 0; }
@@ -212,3 +213,7 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 
 .contact-list{ list-style: none; flex-wrap: wrap; align-items: center; margin-top: 11px; }
 .contact-list a{ margin-right: 15px; }
+
+.ds-design-list{ list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; align-items: center; margin-top: 11px; }
+.ds-design-list li{ display: inline-block; color: #373737; font-size: 16px; padding:10px 20px; background-color: #f4f4f4; border: 1px solid #D7D7D7;
+  border-radius: 27px; margin-right: 15px; margin-bottom: 15px;  font-weight: 500;}
